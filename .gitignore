@@ -1,0 +1,20 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
+_ide_helper.php
+_ide_helper_models.php
+/mix-manifest.json
+public/assets/jtable_data/
+/sendnoti
+/public/suksa/frontend/template/js/matching-create copy.js
+/resources/views/frontend/homework/create_matching.blade copy.php
+/resources/views/frontend/homework/create_matching.blade copy 2.php

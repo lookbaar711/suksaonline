@@ -1,0 +1,91 @@
+<?php
+/**
+* Language file for group management form text
+*
+*/
+return array(
+    'homework' => 'การบ้าน',
+    'studennotwork' => 'ยังไม่ได้ทำ',
+    'multiplechoice'=>'ปรนัย',
+    'matching'=>'จับคู่',
+    'shotanswer'=>'ถามตอบ',
+    'longanswer'=>'บรรยาย',
+    'homework_success'=>'คุณได้ทำการบ้านเสร็จแล้ว',
+    'alreadydone'=>'ทำแล้ว',
+    'resend'=>'ส่งซ้ำ',
+    'notcompleteyet'=>'ยังทำไม่ครบ',
+    'btn-send' => 'ส่งการบ้าน',
+    'ordered' => 'สั่งแล้ว',
+    'waitforinspection' => 'รอตรวจ',
+    'checked' => 'ตรวจแล้ว',
+    'checkedhomework' => 'ตรวจการบ้าน',
+    'score' => 'คะแนน',
+    'namehomework'=>'หัวข้อ การบ้าน',
+    'subjectname' => 'รายวิชา',
+    'classroom' => 'ระดับชั้น',
+    'assignment_date' => 'วันที่ให้การบ้าน',
+    'homework_delivery_date' => 'วันที่ส่งการบ้าน',
+    'manage' => 'จัดการ',
+    'format' => 'รูปแบบ',
+    'Numberofclauses' => 'จำนวนข้อ',
+    'pleasequestion' => 'กรุณากรอกคำถาม',
+    'pleaseanswer' => 'กรุณากรอกคำตอบ',
+    'pleasescore' => 'กรุณากรอกคะแนน',
+    'savedata' => 'บันทึกข้อมูล',
+    'colse' => 'ยกเลิก',
+    'notlow' => 'ไม่ต่ำกว่า 10 ข้อ',
+    'loading' => 'กรุณารอสักครู่',
+    'no' => 'ข้อที่',
+    'theformat' => 'รูปแบบ',
+    'edit' => 'แก้ไข',
+    'create' => 'สร้าง',
+    'response' => 'คำตอบ',
+    'AddQuestions' => 'เพิ่มคำถาม',
+    'delete' => 'ลบ',
+    'create_homework' => 'สร้างการบ้าน',
+    'makehomework' => 'ทำการบ้าน',
+    'cannoteditorcreate' => 'ไม่สามารถแก้ไขหรือสร้างได้',
+    'cannotmake' => 'ไม่สามารถทำการบ้านได้',
+    'delsuccess' => 'ลบการบ้านสำเร็จ',
+    'maketotime' => 'ยังไม่ถึงเวลาทำ',
+    'searchhomwork' => 'ค้นหาการบ้าน',
+    'namehomwork' => 'ชื่อการบ้าน',
+    'duedate' => 'กำหนดส่ง',
+    'status' => 'สถานะ',
+    'detail' => 'รายละเอียด',
+    'type' => 'ประเภท',
+    'startdate' => 'วันที่สั่ง',
+    'namelastname' => 'ชื่อ-นามสกุล',
+    'add_home_assignment' => 'เพิ่มห้วข้อการบ้าน',
+    'homework_topics' => 'หัวข้อการบ้าน',
+    'homework_example' => 'ตัวอย่างไฟล์การบ้าน',
+    'assignments_30' => 'สร้างการบ้านได้สูง สุด 30 ข้อ',
+    'the_system_save_data' => 'ระบบกำลังบันทึกข้อมูล',
+    'question' => 'คำถาม',
+    'assay' => 'ตรวจสอบการบ้าน',
+    'max_score' => 'กรอกคะแนนได้มากสุด',
+    'exportcheck' => 'รายงาน',
+
+    'start_time' => 'เวลาเริ่ม',
+    'end_time' => 'เวลาสิ้นสุด',
+    'enter_the_start_time' => 'กรุณากรอก เวลาเริ่ม น้อยกว่า เวลาสิ้นสุด',
+    'enter_the_assignment' => 'กรุณากรอก วันที่ให้การบ้าน น้อยกว่า วันที่ส่งการบ้าน',
+    'please' => 'กรุณากรอก',
+    'to_rate' => 'ให้คะเเนน',
+    'the_assignment_date' => 'วันที่ให้การบ้านต้องมากว่าวันปัจจุบัน',
+    'start_date_over' => 'วันที่และเวลาให้การบ้านต้องมากกว่าหรือเท่ากับวันที่ปัจจุบัน',
+    'no_title' => 'ลำดับ',
+    'not_have_detail' => 'ไม่มีรายละเอียด',
+    'please_select_an_answer' => 'กรุณาเลือกคำตอบ',
+
+    'homework_guide' => 'คู่มือสร้างการบ้าน',
+    'student_homework_guide' => 'คู่มือการบ้านนักเรียน',
+
+
+
+
+
+
+
+
+);
